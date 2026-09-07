@@ -1,0 +1,34 @@
+ Dia 1
+café da manhã = sim ou nao
+almoço = sim ou nao
+lanche da tarde = sim ou nao
+janta = sim ou nao
+erros do dia = 
+Treino: sim ou não
+Se sim: corrida ou musculação
+se musculação:
+ qual treino
+quanto tempo de treino
+quantas calorias
+se corrida:
+quantos km
+qual tempo
+quantas calorias
+
+PRINT
+quadrado verde com todos dias que treinei da semana:
+
+
+Quanto eu cumpri das minhas metas diárias
+se treinei = sim ou nao
+se sim quanto tempo de treino
+se corri: 
+quantos km, pace, velocidade media, calorias
+se fiz musculação = 
+quanto tempo, qual treino, calorias
+
+CALCULAR VALOR FINAL %
+
+Dia 2
+...
+
